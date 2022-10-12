@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap');
+
+body {
+    background-color: steelblue;
+}
+
+.pageTitle {
+    font-size: 56px;
+    font-family: 'IBM Plex Sans', serif, sans-serif;
+    text-align: center;
+}
+
+.sectionHeader {
+    border-top:1px solid black;
+    text-align: center;
+    font-size: 48px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-family: 'IBM Plex Sans', 'Quicksand', sans-serif;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+    list-style-type: none;
+    text-align: center;
+    justify-content: space-evenly;
+    background: moccasin;
+    padding 1em;
+}
+
+.navigation a {
+    color: black;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: 'IBM Plex Sans', serif, sans-serif;
+    background: moccasin;
+}
+
+.navigation a:hover {
+    background: lightslategrey;
+}
+
+.singleImage {
+    text-align: center;
+}
+
+.paragraph {
+    font-size: 16px;
+    font-family: 'Quicksand', serif, sans-serif;
+}
+
+.imageRow {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
