@@ -13,8 +13,8 @@
             <script src="../components/navbar/navbar.js"></script>
         </div>
         <div class="pageTitle">Professional Resume (Work in Progress)</div>
-        <div>
-            <a href="../VasilakResume.pdf" download>Download my resume (Not up to date)</a>
+        <div class="resumeDownload">
+            <a href="../VasilakResume.pdf" download><img src="../images/downloadicon.png"> Download my resume</a>
         </div>
         <div class="sectionHeader">About Me</div>
         <div class="aboutMeList">
@@ -23,7 +23,7 @@
             <p class="bodyText">Seattle, WA</p>
         </div>
         <div class="sectionHeader">Professional Experience</div>
-        <ul>
+        <ul class="jobList">
             <li>SDE Intern (Amazon)</li>
             <p>
                 Using React and TypeScript, I developed front end components AWS IoT customers could use to interact with some new features
@@ -42,7 +42,7 @@
             <div class="educationItemRight">GPA: 3.54</div>
         </div>
         <div class="sectionHeader">Relevant Courses</div>
-        <ul>
+        <ul class="class-list">
             <li>Data Structures</li>
             <li>Database Concepts</li>
             <li>Modern Web Development</li>
@@ -60,16 +60,28 @@
             <li>Programming Paradigms</li>
         </ul>
         <div class="sectionHeader">University Projects</div>
-        <ul>
+        <ul class="project-list">
             <li>Database Concepts Course Project <i>(Gamer Gatherer)</i></li>
-            <li>Introduction to Droid Building Course Project</li>
-            <li>Modern Web Development Course Project</li>
-            <li>Data Science Course Project</li>
-            <li>Indy Car Preternship (Data Structures)</li>
             <p>
-                Wrote python scripts to handle real IndyCar timing data. Script simulates a race running, all timing events are handled in order
-                Code analyzes overtakes and determines whether Push to Pass (P2P) aided the overtake. Statistics on overtake and use of P2P were
-                recorded and outputted in a an easy to read format.
+                Webapp developed using PHP, Javascript, and HTML. App utilizes a MySQL server that contained more than 50,000 data points.
+            </p>
+            <li>Introduction to Droid Building Course Project</li>
+            <p>
+                Built and programmed a droid for the duration of a semester. Droid consisted of motors, sensors, sound, 
+                display, and a servo. Designed parts using CAD software and 3D printed the designs. Programming was done using Arduino's IDE. 
+                The droid was programmed to complete preprogrammed tasks at the push of a button. It could also be controlled directly by the user.
+            </p>
+            <li>Modern Web Development Course Project</li>
+            <p>
+                Built a webapp using React.js. Project consisted of full stack development. Worked in an Agile manner by completing new features every two weeks.
+            </p>
+            <li>Data Science Course Project</li>
+            <li>Indy Car Preternship <i>(Data Structures)</i></li>
+            <p class="projectDate"><i>(Spring 2021)</i></p>
+            <p>
+                Wrote python scripts to handle real IndyCar timing data. Script simulates a race running, all timing events are handled in order they would occur in a real race.
+                Code analyzes transponder data and records overtakes. Script also determines whether Push to Pass (P2P) aided the overtake. Statistics on overtake and use of P2P were
+                recorded and outputted in JSON. Project was completed in a group setting with other students and an industry mentor.
             </p>
             <li>Computer Security Course Project</li>
         </ul>

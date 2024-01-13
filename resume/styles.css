@@ -65,32 +65,54 @@ body {
     font-family: 'Open Sans', 'Quicksand', sans-serif;
 }
 
-.semester {
-    border-top: 2px solid black;
-    font-size: 24px;
+.resumeDownload {
+    padding-top: 20px;
     font-family: 'Open Sans', Helvetica, sans-serif;
-    background-color: lightslategrey;
-    list-style-type: none;
     text-align: center;
 }
 
-.class-list {
-    margin-left: -40px;
-    display: flex;
-    flex-direction: column;
-    flex-flow: column wrap;
+.resumeDownload a {
+    text-decoration: none;
+}
+
+.jobList {
+    list-style-type: none;
+}
+
+.jobList li {
+    font-family: 'Open Sans', Helvetica, sans-serif;
     text-align: center;
+}
+
+.jobList p {
+    font-family: 'Open Sans', Helvetica, sans-serif;
+}
+
+.class-list {
     list-style-type: none;
 }
 
 .class-list li {
-    background-color: firebrick;
-    list-style-type: none;
-    text-align: center;
-    padding: 10px;
     font-family: 'Open Sans', Helvetica, sans-serif;
-    font-size: 24px;
-    line-height: 24px;
+}
+
+.project-list {
+    list-style-type: none;
+}
+
+.project-list li {
+    font-family: 'Open Sans', Helvetica, sans-serif;
+    text-align: center;
+    font-size: 16px;
+}
+
+.projectDate {
+    text-align: center;
+}
+
+.project-list p {
+    font-family: 'Open Sans', Helvetica, sans-serif;
+    font-size: 12px;
 }
 
 .navigationSuper {
@@ -127,22 +149,6 @@ body {
 .navigation a:hover {
     background: lightslategrey;
     transition-duration: 0.4s;
-}
-
-
-.jobList {
-    list-style-type: none;
-}
-
-.jobList li {
-    background-color: firebrick;
-    font-family: 'Open Sans', Helvetica, sans-serif;
-    text-align: center;
-    font-size: 24px;
-    margin-bottom: 15px;
-    margin-top: 15px;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
 }
 
 .logoSet {
