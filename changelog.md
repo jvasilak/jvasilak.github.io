@@ -14,13 +14,24 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Removed
 -
 
-## [0.1.1] - 2023-01-12
+## [0.1.2] - 2024-MM-DD
+### Added
+- New color scheme to all pages of the website
+
+### Changed
+- Updated home page to reflect status of website
+- Updated 'Career' navbar tab to 'Experience'
+
+### Removed
+-
+
+## [0.1.1] - 2024-01-12
 
 ### Changed
 - Fixing order of changelog so more recent updates appear first
 
 
-## [0.1.0] - 2023-01-12
+## [0.1.0] - 2024-01-12
 ### Added
 - Basic descriptions of my university projects to resume page
 

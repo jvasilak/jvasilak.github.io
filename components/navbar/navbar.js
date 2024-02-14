@@ -1,5 +1,5 @@
 // TODO: move variables that are hard coded to a constants.js file
-const navigationvalues = ["Home", "Resume", "Career", "Interests"];
+const navigationvalues = ["Home", "Resume", "Experience", "Interests"];
 const destinationvalues = ["index.html", "resume.html", "experience.html", "interests.html"];
 const indexFileName = "index.html";
 const sourcePath = window.location.pathname;

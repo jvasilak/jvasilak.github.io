@@ -4,7 +4,7 @@
 
 
 body {
-    background-color: steelblue;
+    background-color: #DDD5D0;
     margin: 0;
 }
 
@@ -116,7 +116,7 @@ body {
 }
 
 .navigationSuper {
-    background: moccasin;
+    background: #7F9183;
     overflow: hidden;
 }
 
@@ -126,7 +126,7 @@ body {
     flex-flow: row wrap;
     list-style-type: none;
     text-align: left;
-    background: moccasin;
+    background: #7F9183;
     padding: 4px;
     gap: 20px;
     margin-left: 20px;
@@ -137,12 +137,7 @@ body {
     text-decoration: none;
     font-size: 24px;
     font-family: 'IBM Plex Sans', serif, sans-serif;
-    background: moccasin;
-}
-
-.navigation a:hover {
-    background: lightslategrey;
-    transition-duration: 0.4s;
+    background: #7F9183;
 }
 
 
