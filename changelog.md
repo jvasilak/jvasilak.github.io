@@ -14,16 +14,25 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Removed
 -
 
-## [0.1.2] - 2024-MM-DD
+## [0.2.0] - 2024-02-28
+### Added
+- Added information to resume page projects section and added dates to each project
+- Added exerpt to beginning of 'Education' page
+- Added ability to expand and collapse classes on the education page
+
+### Changed
+- Changed name of 'Experience' tab to 'Education' on navbar
+
+### Removed
+- Removed past jobs from 'Education' page
+
+## [0.1.2] - 2024-02-01
 ### Added
 - New color scheme to all pages of the website
 
 ### Changed
 - Updated home page to reflect status of website
 - Updated 'Career' navbar tab to 'Experience'
-
-### Removed
--
 
 ## [0.1.1] - 2024-01-12
 
