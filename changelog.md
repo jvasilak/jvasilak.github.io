@@ -14,6 +14,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Removed
 -
 
+## [0.3.0] - 2024-02-29
+### Added
+- Descriptions to projects and my current job on the resume page
+
+### Changed
+- Styling for resume page
+
 ## [0.2.0] - 2024-02-28
 ### Added
 - Added information to resume page projects section and added dates to each project

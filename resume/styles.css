@@ -53,6 +53,7 @@ body {
     font-size: 56px;
     font-family: 'Open Sans', serif, sans-serif;
     text-align: center;
+    background-color: #B8B8AA;
 }
 
 .sectionHeader {
@@ -63,6 +64,7 @@ body {
     margin-top: 25px;
     margin-bottom: 25px;
     font-family: 'Open Sans', 'Quicksand', sans-serif;
+    background-color: #B8B8AA;
 }
 
 .resumeDownload {
@@ -88,12 +90,15 @@ body {
     font-family: 'Open Sans', Helvetica, sans-serif;
 }
 
-.class-list {
-    list-style-type: none;
+.classGrid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
 }
 
-.class-list li {
+.classGrid div {
     font-family: 'Open Sans', Helvetica, sans-serif;
+    text-align: center;
 }
 
 .project-list {
@@ -113,6 +118,7 @@ body {
 .project-list p {
     font-family: 'Open Sans', Helvetica, sans-serif;
     font-size: 12px;
+    text-align: center;
 }
 
 .navigationSuper {
