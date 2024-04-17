@@ -14,6 +14,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Removed
 -
 
+## [0.3.1] - 2024-04-16
+
+### Changed
+- Text content of existing web pages
+
 ## [0.3.0] - 2024-02-29
 ### Added
 - Descriptions to projects and my current job on the resume page
