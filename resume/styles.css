@@ -90,6 +90,12 @@ body {
     font-family: 'Open Sans', Helvetica, sans-serif;
 }
 
+.jobTime {
+    font-family: 'Open Sans', Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 0px;
+}
+
 .classGrid {
     display: grid;
     grid-template-columns: repeat(5, 1fr);

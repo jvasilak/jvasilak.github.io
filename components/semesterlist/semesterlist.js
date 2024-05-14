@@ -150,22 +150,22 @@ const classNameList = {
             "ClassCode": "PHIL 20440"
         }
     ],
-    /* Spring 2023 */ 7: [ // TODO: find class codes for last semester courses
+    /* Spring 2023 */ 7: [
         {
             "ClassName": "Biometrics",
-            "ClassCode": "CSE"
+            "ClassCode": "CSE 40537"
         },
         {
             "ClassName": "Interactive Dialogue Systems",
-            "ClassCode": "CSE"
+            "ClassCode": "CSE 40982"
         },
         {
             "ClassName": "Computer Security",
-            "ClassCode": "CSE"
+            "ClassCode": "CSE 40567"
         },
         {
             "ClassName": "History of the Age of Revolution",
-            "ClassCode": "HIST"
+            "ClassCode": "HIST 30477"
         }
     ],
 };

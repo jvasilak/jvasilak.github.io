@@ -14,6 +14,18 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Removed
 -
 
+## [0.4.0] - 2024-05-13
+### Added
+- Two new pages for coding projects I am doing for fun.
+- Class numbers for final semester of college.
+- Dates underneath professional experience.
+
+### Changed
+- Small tweaks to resume job ordering.
+
+### Removed
+- Old unused index.html file.
+
 ## [0.3.1] - 2024-04-16
 
 ### Changed
