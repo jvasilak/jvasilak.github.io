@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Removed
 -
 
-## [0.5.0] - YYYY-MM-DD
+## [0.5.0] - 2025-03-09
 ### Added
 - Gaming section to Interests page
 - New pages for Bucket List and Travels
