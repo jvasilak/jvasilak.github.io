@@ -55,8 +55,14 @@ body {
 }
 
 .paragraph {
-    margin-left: 5px;
+    margin-left: 10px;
     font-size: 16px;
+    font-family: 'Quicksand', serif, sans-serif;
+}
+
+.sublist {
+    margin-left: 10px;
+    font-size: 12px;
     font-family: 'Quicksand', serif, sans-serif;
 }
 
@@ -65,4 +71,9 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.goalItem {
+    font-size: 16px;
+    font-family: 'Quicksand', serif, sans-serif;
 }

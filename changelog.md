@@ -14,6 +14,20 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Removed
 -
 
+## [0.5.0] - YYYY-MM-DD
+### Added
+- Gaming section to Interests page
+- New pages for Bucket List and Travels
+
+### Changed
+- Soccer section of Interests page
+- Information on home page
+- Information on resume page
+- Renamed Kayaking section of Interests page to Outdoors and added more information
+
+### Removed
+- Bracket and pixel editor pages
+
 ## [0.4.0] - 2024-05-13
 ### Added
 - Two new pages for coding projects I am doing for fun.
