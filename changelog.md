@@ -14,6 +14,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Removed
 -
 
+## [0.5.1] - 2025-03-31
+
+### Changed
+- Updated color scheme of all pages
+- Updated descriptions of some college projects I worked on
+- Updated gaming and soccer sections of my interests page
+- Rephrased some text on the education page
+
 ## [0.5.0] - 2025-03-09
 ### Added
 - Gaming section to Interests page
