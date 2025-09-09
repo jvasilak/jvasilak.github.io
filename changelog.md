@@ -14,6 +14,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Removed
 -
 
+## [0.5.2] - 2025-09-08
+
+### Changed
+- Description of myself on the main page
+- Updated map image on the travels page and added some descriptions of a few places I've been
+
 ## [0.5.1] - 2025-03-31
 
 ### Changed
