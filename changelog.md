@@ -13,6 +13,18 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Removed
 -
+## [0.5.4] - 2025-11-04
+### Changed
+- Bucket list items
+- Travels page format
+
+## [0.5.3] - 2025-09-09
+### Added
+- More items to bucket list
+
+### Changed
+- Home page description of myself
+- Moved disclaimer on home page to the bottom of the page
 
 ## [0.5.2] - 2025-09-08
 
